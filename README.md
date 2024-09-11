@@ -13,9 +13,9 @@ This is a simple calculator application designed to perform basic arithmetic ope
 - Clear and error handling for invalid inputs
 
 ## Technologies Used
--- HTML
--- CSS
--- JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 
